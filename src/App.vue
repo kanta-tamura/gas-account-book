@@ -10,7 +10,7 @@
         <v-icon>mdi-file-table-outline</v-icon>
       </v-btn>
       <!-- gear icon button -->
-      <v-btn icon to="/setting">
+      <v-btn icon to="/settings">
         <v-icon>mdi-cog</v-icon>
       </v-btn>
     </v-app-bar>
